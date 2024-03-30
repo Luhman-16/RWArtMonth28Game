@@ -21,10 +21,10 @@ DO NOT download and execute the game if it comes from another source other than 
 this game will only work on Windows.
 
 All the files you need to play are in the zip file (structure is important. do not, for exemple, move the .exe file to the Resources folder):
--RWArtMonth28.exe
--RWArtMonth28.exe.config
--RWArtMonth28.pdb
--Resources\Scenarios.xml
+  -RWArtMonth28.exe
+  -RWArtMonth28.exe.config
+  -RWArtMonth28.pdb
+  -Resources\Scenarios.xml
 
 If you want to delete the game, simply remove all those files
 
