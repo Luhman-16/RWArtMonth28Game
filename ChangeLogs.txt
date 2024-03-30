@@ -1,0 +1,3 @@
+no number-Base game
+
+v1.2-Changed text size to be bigger
