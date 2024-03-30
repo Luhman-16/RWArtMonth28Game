@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenario>
+	<Story>
+    <Left>Enot</Left>
+    <Right>None</Right>
+		<Page>>Be me
+    >Enot</Page>
+		<Page>It's your birthday today! 
+    Yippi!</Page>
+		<Page>You want to celebrate but you have no one to celebrate with :(</Page>
+		<Page>You might as well try to see if there's someone nearby.</Page>
+		<Button1>Outskirt</Button1>
+		<Button2>Farm arrays</Button2>
+		<Button3>Shaded citadel</Button3>
+		<Button4>Shoreline</Button4>
+		<Story1>
+      <Left>Enot</Left>
+      <Right>None</Right>
+      <Page>Ahhh Outskirts, beautiful place.</Page>
+			<Page>Would be even more beautiful with some friends.</Page>
+			<Page>BOOOM BOOOOM BOOOOOOOOOM</Page>
+      <Page>Huh?
+      What was all that noise?
+      You better go check it out.</Page>
+			<Button1>North</Button1>
+			<Button2>Pipe on your left</Button2>
+			<Button3>Nearest shelter</Button3>
+			<Button4>To room SU_B04</Button4>
+      <Story1>
+        <Left>Enot</Left>
+        <Right>None</Right>
+        <Page>You decide to go north.</Page>
+        <Page>The sound didn't even come from there, but you have a goal, dammit, and you WILL go NORTH OK!</Page>
+        <Page>You keep on walking, never to be seen again.</Page>
+      </Story1>
+      <Story2>
+        <Left>Enot</Left>
+        <Right>Monk</Right>
+        <Page>Upon leaving the pipe, you see the back of a yellow slugcat wearing some neon yellow construction gear.</Page>
+        <Page>As they turn around, huge explosion occur behind them.
+        Whoa so cool!</Page>
+        <Page>Monk: Oh hey there, we're doing some demolitions around here, you should probably evacuate the area.</Page>
+        <Page>Enot: Its my birthday! :D</Page>
+        <Page>Monk: Hum... Happy birthday! It's dangerous to stay here, the explosion could hurt you.
+        You wouldn't want that to happen on your birthday, right?</Page>
+        <Page>Enot: But... I don't have anyone to celebrate with D:, would you want to have a party with me?</Page>
+        <Page>Monk: Only if we get out of here first, haha...</Page>
+        <Button1>SURE!</Button1>
+        <Button2>It's okay, i'll leave :'(</Button2>
+        <Button3>Spontaneously combust</Button3>
+        <Button4>Spontaneously explode</Button4>
+        <Story1>
+          <Left>Enot</Left>
+          <Right>Monk</Right>
+          <Page>Enot: So it's a PARTY YAY!</Page>
+          <Page>Monk: Yeah yeah, but let's get you out of here first.</Page>
+          <Page>Enot: Let's have a PARTY in industrial complex. (i find it quite simple really....)</Page>
+          <Page>Both of you leave outskirts and have a great party around a nice cake to the sound of bombs a region away!</Page>
+        </Story1>
+        <Story2>
+          <Left>Enot</Left>
+          <Right>None</Right>
+          <Page>You leave the area, saddened.</Page>
+          <Page>You go to your shelter filled with your collection of nightcat plushies and empty pesto jars.</Page>
+          <Page>Taking your favorite plushie and jar of tomato pesto, you cry yourself to sleep slowly.</Page>
+        </Story2>
+        <Story3>
+          <Left>Enot</Left>
+          <Right>None</Right>
+          <Page>You spontaneously combust and die.</Page>
+        </Story3>
+        <Story4>
+          <Left>Enot</Left>
+          <Right>None</Right>
+          <Page>You spontaneously explode and die.</Page>
+        </Story4>
+      </Story2>
+      <Story3>
+        <Left>Enot</Left>
+        <Right>None</Right>
+        <Page>You enter the nearest shelter.</Page>
+        <Page>It's filled with lizards having a slumber party.</Page>
+        <Page>Enot: rrrHIIII guys! Let's have a birthday PARTY!!</Page>
+        <Page>The lizards stare at you.</Page>
+        <Page>Enot: YAYYYY</Page>
+        <Page>The lizards stare at each other than you again</Page>
+        <Page>Enot: YIPPPIIIIII</Page>
+        <Page>The lizards eat you</Page>
+      </Story3>
+      <Story4>
+        <Left>Enot</Left>
+        <Right>Survivor</Right>
+        <Page>You are now in room SU_B04
+        Everything is in ruins. :O</Page>
+        <Page>A white slugcat wearing construction gear is throwing bombs everywhere.</Page>
+        <Page>Survivor: Are you the guy delivering the bombs Gourmand made?
+        We're running low over here.</Page>
+        <Page>Enot: Yup, definitely that's me!</Page>
+        <Page>You check your pockets for any bombs in them. 
+        Luckily you find a dozen of your special exploding eggs.</Page>
+        <Page>Enot: Who put that there Laughing Crying emoji</Page>
+        <Page>Survivor just looks at you.</Page>
+        <Page>You give them your eggs. 
+        Enot: It's also my birthday today theehee uwu</Page>
+        <Page>Survivor: Nice, happy birthday man(gender neutral), wanna throw some bombs with me?</Page>
+        <Page>Enot: YASSSSSSSSSSSSSSSSSSSSSSSSSSSSS 
+        YAAAAAAAAAAAAAAAAAAAAAAAAAAAASSSSSSSSSSSS 
+        YAAAAAAAAAAASSSSSSSSSSSSSSSSS</Page>
+        <Page>You spend the rest of your birthday throwing bombs with your new friend.</Page>
+      </Story4>
+		</Story1>
+		<Story2>
+      <Left>Enot</Left>
+      <Right>None</Right>
+      <Page>As you get to farm arrays, you hear kissing sounds somewhere close.</Page>
+			<Page>Enot: Not without me!</Page>
+			<Page>You go towards the sound.</Page>
+      <Page>TWO SLUGCATS ARE KISSING OVER HERE WHATTADA HELLLLLL</Page>
+			<Button1>Leave</Button1>
+			<Button2>Oh there's a scavenger treasury nearby, let's go there!</Button2>
+			<Button3>Watch them from afar</Button3>
+			<Button4>Join them ;)</Button4>
+      <Story1>
+        <Left>Enot</Left>
+        <Right>None</Right>
+        <Page>Seeing the two slugcats kissing makes you feel even more lonely on your birthday.</Page>
+        <Page>You have no mate and it makes you sad :(</Page>
+        <Page>With your tail between your legs, you sadly leave all alone.</Page>
+      </Story1>
+      <Story2>
+        <Left>Enot</Left>
+        <Right>Scavenger</Right>
+        <Page>With your HUGE GAMER BRAIN, you recall that there is a scavenger treasury in this area.</Page>
+        <Page>You forget all about the other two slugs and start heading towards said place</Page>
+        <Page>On your way, you are greeted by many scavengers, smiling at you.
+        A long time ago, you gave them some free eggs and got a really high reputation.</Page>
+        <Page>Once upon a time, you even once were a chef from a scavenger colony.
+        No one beleives you but that's alright uwu</Page>
+        <Page>You finally reach the treasury, filled with spears, electric spears, bomb spears and more spears.</Page>
+        <Page>Scavenger: Hewwo there Enot.</Page>
+        <Page>Enot: HI kid scavenger #74! its my birthday!</Page>
+        <Page>Scavenger and Enot: YIPPIII!</Page>
+        <Page>Scavenger: I have a gift for you.</Page>
+        <Page>The scavenger scavenges in the piles of spears and takes out...
+        A PESTO JAR FULL OF SPINACH PESTO</Page>
+        <Page>Scavenger: Here, a gift for your birthday from the colony uwu</Page>
+        <Page>Enot: Awwww you guys remembered... THANK YOU SO MUCH!
+        Let's eat it togheter</Page>
+        <Page>You and the scavenger eat pesto and play all day long.</Page>
+      </Story2>
+      <Story3>
+        <Left>Enot</Left>
+        <Right>None</Right>
+        <Page>You watch the two reddish pink scavengers with your big beautiful wet blue eyes.</Page>
+        <Page>They spot you and stop their make out session for a moment but immediatly get back to it, unbothered</Page>
+        <Page>You keep staring.
+        Gaze unwavering.</Page>
+        <Page>You hear some shuffling behind you.
+        You must NOT stop staring.
+      NEVER!</Page>
+        <Page>On the corner of your eyes, you see some orangey movement.
+        BUT you CANT stop STARING!
+      IT IS YOUR MISSION</Page>
+        <Page>You feel a sharp pain in your sides</Page>
+        <Page>CANT.... STOP...
+        STARING...</Page>
+        <Page>You feel a big wet tongue around you as you are taken by something.
+        Your sides are hurting.</Page>
+        <Page>You are in a lizards mouth, being taken away, but as your vision goes blurry and the pain takes over,
+        only one thing stays in your mind.</Page>
+        <Page>Must Not Stop Staring</Page>
+        <Page>you ded by orgn lizzy blep :P
+        Mioum menoum mioum mioum crunch</Page>
+      </Story3>
+      <Story4>
+        <Left>Enot</Left>
+        <Right>ArtiHunter</Right>
+        <Page>You gather your courage up and head towards the two kissing slugcats.</Page>
+        <Page>They dont notice you at all.
+        Not even when you are right next to their faces, ready to join them and kiss too.</Page>
+        <Page>You join the kiss
+        MOUUUUUHWAA!!</Page>
+        <Page>The two immediatly stop to stare at you.
+        Silently.</Page>
+        <Page>...</Page>
+        <Page>They get back to it as if it never happened.</Page>
+        <Page>You join them again and kiss.
+        MOUUUUUUHWAAA</Page>
+        <Page>They stop again to stare at you and immediatly start kissing again</Page>
+        <Page>You kiss them AGAIN
+        MOUUUUWHAA</Page>
+        <Page>They stop.</Page>
+        <Page>Hunter(/Chad): Is this guy bothering you, Arti?
+        Artificer: no.</Page>
+        <Page>Artificer(/Chad): Is this guy bothering you, Hunter?
+        Hunter: no</Page>
+        <Page>They start kissing again.
+        One of them, Hunter, pulls you in close and kisses you too.</Page>
+        <Page>You kiss the two and kiss all (birth)day long uwu</Page>
+      </Story4>
+    </Story2>
+		<Story3>
+      <Left>Enot</Left>
+      <Right>None</Right>
+      <Page>As you step into shaded citadel you ask yourself...</Page>
+			<Page>WHY WOULD YOU CHOOSE TO GO TO SHADED</Page>
+			<Page>its too late now, you're already here and you'll waste your birthday going back</Page>
+      <Page>It cant be that bad, right?</Page>
+      <Page>Paws in front of you, you blindly go forward until you hit a wall.</Page>
+      <Page>You open you big wet eyes, more and more until you can kind of see a pipe and a door emiting a strange light</Page>
+			<Button1>FUCK IT go back, LEAVE THIS PLACE</Button1>
+			<Button2>Go through the pipe</Button2>
+			<Button3>Contemplate your options a bit more</Button3>
+			<Button4>Go towards the light in the other room</Button4>
+      <Story1>
+        <Left>Enot</Left>
+        <Right>None</Right>
+        <Page>You leave shaded and waste your birthday.</Page>
+        <Page>At least you survived...</Page>
+      </Story1>
+      <Story2>
+        <Left>Enot</Left>
+        <Right>Spearmaster</Right>
+        <Page>You poke your head out of the pipe, only to be greeted by-----</Page>
+        <Page>A big DAMP dark room</Page>
+        <Page>Great...</Page>
+        <Page>You walk forward, your feet now completly submerged underwater</Page>
+        <Page>Splish splosh</Page>
+        <Page>You feel something graze your head</Page>
+        <Page>A wittwe massage UwU, fow meeee OwO</Page>
+        <Page>You lean into the slimy touch</Page>
+        <Page>Hummmmmmm</Page>
+        <Page>-staCk</Page>
+        <Page>You look above you, the monster kelp that was petting you retracts into the ceiling, a spear firmly planted inside</Page>
+        <Page>Forward, you see a purple slugcat, holding another spear.
+        They wave at you from their perching point</Page>
+        <Page>Enot: rrHIIIIIIIIII! can i join you for my birthday!!! :D</Page>
+        <Page>Spearmaster: :)</Page>
+        <Page>You quickly go over to them.
+        When you reach them, they hand you a spear and point towards where the monster kelp once was</Page>
+        <Page>The monster kelp reappears, without the spear and hangs and sways from the ceiling.</Page>
+        <Page>Enot: OuO</Page>
+        <Page>The slugcat motions you to throw a spear.
+        You follow their lead.</Page>
+        <Page>-stACK</Page>
+        <Page>The monster kelp wiggles and retreats to their shelter.</Page>
+        <Page>Spearmaster: :D</Page>
+        <Page>Enot: :D</Page>
+        <Page>You spend the rest of your birthday throwing spears at the monster kelp with your friend.</Page>
+      </Story2>
+      <Story3>
+        <Left>Enot</Left>
+        <Right>None</Right>
+        <Page>You keep contemplating your options</Page>
+        <Page>Hmmmmmmmm
+        Cant make a bad decision here, or itll ruin your birthday</Page>
+        <Page>hmmmmmm</Page>
+        <Page>The darkness of shaded citadelle is becoming more and more dark and shaded</Page>
+        <Page>You keep contemplating, you just cant make your MIND UP!</Page>
+        <Page>The darckness enveloppes you and you are now inside something stomach.</Page>
+      </Story3>
+      <Story4>
+        <Left>Enot</Left>
+        <Right>Saint</Right>
+        <Page>You head to the weird glow in the room</Page>
+        <Page>Inside, you can see a glowing mound of spiders, cobwebs and spider eggs.
+        yuckk</Page>
+        <Page>As you are about to leave, disgusted, you notice a bit of green fur poking out of the spider mound</Page>
+        <Page>You approach it carefully, as to not disturb the spiders around</Page>
+        <Page>You poke the mound,
+        spiders shuffle around but nothing changes.</Page>
+        <Page>You take a big breath,
+        sigh,
+      and poke your hand IN the spiders.
+    Grasping at a pawfull of green fur.</Page>
+        <Page>And you PULLLl.</Page>
+        <Page>a limp green slugcat falls in front of you with a thud.
+        Spiders scather around as if they were never there.</Page>
+        <Page>Enot: D: are you dead?</Page>
+        <Page>You poke the green slug
+        no movement....</Page>
+        <Page>You are about to leave when the presumably dead slugcat gets up</Page>
+        <Page>Saint: FRICK whaT the HEcK maaaNNN(gender neutral), i wAS medITatinG over Here...</Page>
+        <Page>Enot: oh sowwwyyyyy uwu, its ma birthday (winks) (winks) you cant be mad at me OwO</Page>
+        <Page>Saint:Yeah... you're right....... grumble grumble
+        You wanna meditate with me?</Page>
+        <Page>Enot: YASSSSSS</Page>
+        <Page>You both sit down and begin meditating</Page>
+        <Page>hmmmmmmm
+        nice</Page>
+        <Page>Some spiders make their way back to you, to meditate too</Page>
+        <Page>Enot: have you ever had a birthday?</Page>
+        <Page>Saint: yes, i have had a birthday before</Page>
+        <Page>you meditate and have an amazing birthday day.</Page>
+      </Story4>
+		</Story3>
+		<Story4>
+      <Left>Enot</Left>
+      <Right>None</Right>
+      <Page>Yeah! Going to shoreling is a great idea.
+      Maybe there'll be some scugs having a beach party that you'll be able to join for your birthday.</Page>
+			<Page>You head there, thinking of all the possibilities of slugs being your friends
+      and inviting you to their beach party
+    and wishing you happy birthday
+  and giving you birthday gifts
+and surprising you with a big cake
+and-</Page>
+			<Page>Oh, you've arrived in Shoreline now yippi :D</Page>
+      <Page>You are at a fork in the road, in front there is only the deep deep water
+      Seems like there's a slugcat having a beach party by themselves on the right
+    On the left, there's only an empty path leading no one knows where</Page>
+			<Button1>Go for a swim</Button1>
+			<Button2>Join the silly party slug</Button2>
+			<Button3>Go down the empty road</Button3>
+			<Button4>Sit down relax</Button4>
+      <Story1>
+        <Left>Enot</Left>
+        <Right>None</Right>
+        <Page>With a smile on your face, you run towards the shore.
+          They dont call it SHOREline for nothing</Page>
+        <Page>You check the sky for any potential danger....
+        The coast is clear!</Page>
+        <Page>You jump in the water!</Page>
+        <Page>Splashing around the water, theeeheee so fun!</Page>
+        <Page>You spend all day just having fun all by yourself</Page>
+        <Page>What a great birthday!</Page>
+        <Page>As you try to leave the water, you feel something tugging at your legs...
+        Not letting you leave</Page>
+        <Page>You were so preoccupied, making sure there were no predators in the sky,
+        You forgor about the leeches in the water</Page>
+        <Page>You try to push and push yourself out of there,
+        more and more leeches get your feet</Page>
+        <Page>Enot: OOuuuhh guys not the feet!!! you need to take me out on a date first uwu</Page>
+        <Page>The leeches tug at you, bringing you deep underwater.</Page>
+        <Page>You can feel them poking and tugging every part of your body as you lose consciousness</Page>
+      </Story1>
+      <Story2>
+        <Left>Enot</Left>
+        <Right>Rivulet</Right>
+        <Page>It's not a party without Enot, thats what they always say!!</Page>
+        <Page>You run towards the slugcat in the distance</Page>
+        <Page>As you get closer, you can see that they are just backflipping.
+        Doing nothing else other than backflipping</Page>
+        <Page>They seem really good at it, they get some sick air time</Page>
+        <Page>Enot: OMG how are you doing that?</Page>
+        <Page>Rivulet(/Backflip): Oh im just backflipping 3(OuO)E</Page>
+        <Page>Enot: Its my birthday, can i join you?</Page>
+        <Page>Rivulet(/Backflip): yeah of course 3(OvO)E</Page>
+        <Page>You try to backflip but just land on your back
+        Ouch</Page>
+        <Page>You try again but the same result happen...</Page>
+        <Page>Rivulet(/Backflip): Have you tried doing /Backflip? seems like you're having a hard time backflipping 3(OnO)E</Page>
+        <Page>Enot: No, how do you do that?</Page>
+        <Page>Rivulet(/Backflip): Just say /Backflip before talking 3(OuO)E</Page>
+        <Page>Enot(/Backflip): OH MY I CAN BACKFLIP!!!</Page>
+        <Page>Rivulet: YAYYYYYY!!!</Page>
+        <Page>You spend the rest of the day getting dizzy practicing your newfound backflipping skill</Page>
+      </Story2>
+      <Story3>
+        <Left>Enot</Left>
+        <Right>None</Right>
+        <Page>Let's just explore and go down that road.</Page>
+        <Page>Seems like a really long road, huh.
+        You can't even see the end of it</Page>
+        <Page>This wont stop you, you'll find the end of it</Page>
+        <Page>...</Page>
+        <Page>.......</Page>
+        <Page>...........</Page>
+        <Page>.................</Page>
+        <Page>Yeah this is really long huh...</Page>
+        <Page>.......</Page>
+        <Page>.............</Page>
+        <Page>When you said that no one knew where this lead to, maybe you were right....</Page>
+        <Page>...........</Page>
+        <Page>.....It's starting to rain......</Page>
+        <Page>....hmmmmm.......
+        ...........</Page>
+        <Page>Oh yeah its rainning now. Pouring even</Page>
+        <Page>YUPPP</Page>
+        <Page>TOOO MUCH WATER!!!</Page>
+      </Story3>
+      <Story4>
+        <Left>Enot</Left>
+        <Right>None</Right>
+        <Page>Hey, maybe life is not about just about chasing this one goal you can never reach...
+        Maybe you should just....</Page>
+        <Page>Sit down...
+        And look at the sky...</Page>
+        <Page>Feel the grass and rocks under you.</Page>
+        <Page>Just take the time to admire the sky.</Page>
+        <Page>Huh.....
+        It really is a pretty sky....</Page>
+        <Page>You sit there in silence. Content with your current situation</Page>
+        <Page>.....</Page>
+        <Page>Maybe you dont need a mate. You keep searching so hard for one....
+        You never realised you were also happy just by yourself...</Page>
+        <Page>.....
+        ......</Page>
+        <Page>?: Hey there, can i join you?</Page>
+        <Page>... you never stopped to think about what you really want in life....</Page>
+        <Page>?: ....Can i come sit with you</Page>
+        <Page>You were so deep in your thoughts, you didnt realise there was someslug coming towards you.</Page>
+        <Button1>You're sleepy</Button1>
+        <Button2>Pat the place next to you</Button2>
+        <Button3>Scoot over</Button3>
+        <Button4>Answer them</Button4>
+        <Story1>
+          <Left>Enot</Left>
+          <Right>None</Right>
+          <Page>You fall asleep</Page>
+          <Page>You wake up to the sound of rain and a lighting bolt strikes you</Page>
+        </Story1>
+        <Story2>
+          <Left>Enot</Left>
+          <Right>None</Right>
+          <Page>You pat the place next to you.
+          This gesture might normally be inviting but you're patting harder and harder until you create a big hole</Page>
+          <Page>This seems like it scared the other slug, they are not here anymore</Page>
+          <Page>You look down your hole.
+          Cool hole</Page>
+          <Page>?: I didnt know what you were doing so i went and got us so slugIce cream</Page>
+          <Page>The voice startles you and you fall in your big hole</Page>
+          <Page>Minecraft death sound effect
+          Enot fell from a high place</Page>
+        </Story2>
+        <Story3>
+          <Left>Enot</Left>
+          <Right>None</Right>
+          <Page>You start scooting over, as if making space for them in this big empty shore.</Page>
+          <Page>But you dont stop scooting</Page>
+          <Page>Youre not a quitter!! Keep scooting!</Page>
+          <Page>Never look back, just scoot until you're dead</Page>
+          <Page>Now you can stop, you're dead</Page>
+        </Story3>
+        <Story4>
+          <Left>Enot</Left>
+          <Right>Gourmand</Right>
+          <Page>You decide to be normal about this</Page>
+          <Page>Yeah you can sit here</Page>
+          <Page>They come sit down next to you
+          Gourmand: Hi, im Gourmand. This is usually my spot for fishing</Page>
+          <Page>They take out from behind their back a big fishing rod</Page>
+          <Page>Enot: Whoa so cool! i'm Enot, i've never fished before</Page>
+          <Page>Gourmand: Do you want to take a shot at it?</Page>
+          <Page>Remembering all you lack of skill in activities like that, you decline</Page>
+          <Page>You both sit in silence as the string on Gourmand's fishing rod tugs from time to time</Page>
+          <Page>Gourmand: Whoa did you see that! There's a big one biting!</Page>
+          <Page>Gourmand pulls and pulls their fishing rod, the fish pulling in the other direction</Page>
+          <Page>Gourmand: GGhaah... Help me Enot!
+          I.. Icant-</Page>
+          <Page>You quickly help Gourmand pull the fish out</Page>
+          <Page>You both Struggle until finally, a huge leviathan gets pulled onto shore</Page>
+          <Page>Enot and Gourmand: Whow!</Page>
+          <Page>Gourmand: I've never caught a leviathan before! didnt know it was even possible!
+          Thanks for the help! i wouldnt have made it without you!</Page>
+          <Page>Enot: Ahhh thank you so much for hanging out with me on my birthday!</Page>
+          <Page>Gourmand: Whaa Happy birthday, You should have told me sooner!</Page>
+          <Page>You spend the rest of the cycle with your knew friend while they cook some fresh leviathan for you.</Page>
+        </Story4>
+      </Story4>
+		</Story4>
+	</Story>
+</Scenario>

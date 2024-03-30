@@ -1,0 +1,11 @@
+D:\CodeStuff\RWArtMonth28\RWArtMonth28\RWArtMonth28\bin\Debug\RWArtMonth28.exe.config
+D:\CodeStuff\RWArtMonth28\RWArtMonth28\RWArtMonth28\bin\Debug\RWArtMonth28.exe
+D:\CodeStuff\RWArtMonth28\RWArtMonth28\RWArtMonth28\bin\Debug\RWArtMonth28.pdb
+D:\CodeStuff\RWArtMonth28\RWArtMonth28\RWArtMonth28\obj\Debug\RWArtMonth28.Form1.resources
+D:\CodeStuff\RWArtMonth28\RWArtMonth28\RWArtMonth28\obj\Debug\RWArtMonth28.Properties.Resources.resources
+D:\CodeStuff\RWArtMonth28\RWArtMonth28\RWArtMonth28\obj\Debug\RWArtMonth28.csproj.GenerateResource.cache
+D:\CodeStuff\RWArtMonth28\RWArtMonth28\RWArtMonth28\obj\Debug\RWArtMonth28.csproj.CoreCompileInputs.cache
+D:\CodeStuff\RWArtMonth28\RWArtMonth28\RWArtMonth28\obj\Debug\RWArtMonth28.exe
+D:\CodeStuff\RWArtMonth28\RWArtMonth28\RWArtMonth28\obj\Debug\RWArtMonth28.pdb
+D:\CodeStuff\RWArtMonth28\RWArtMonth28\RWArtMonth28\obj\Debug\RWArtMonth28.csproj.AssemblyReference.cache
+D:\CodeStuff\RWArtMonth28\RWArtMonth28\RWArtMonth28\bin\Debug\Resources\Scenarios.xml
